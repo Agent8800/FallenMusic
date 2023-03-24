@@ -51,8 +51,8 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url="https://t.me/AXOFFICIALNEWS"
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url="https://t.me/bshhshsb"
+        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url="https://t.me/AXOFFICIALNEWS"),
+        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url="https://t.me/bshhshsb"),
     ],
     [
         InlineKeyboardButton(
@@ -71,8 +71,8 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url="https://t.me/AXOFFICIALNEWS"
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url="https://t.me/bshhshsb"
+        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url="https://t.me/AXOFFICIALNEWS"),
+        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url="https://t.me/bshhshsb"),
     ],
     [
         InlineKeyboardButton(
@@ -102,7 +102,7 @@ helpmenu = [
 
 
 help_back = [
-    [InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url="https://t.me/bshhshsb"
+    [InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url="https://t.me/bshhshsb"),
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
