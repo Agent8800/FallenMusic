@@ -103,7 +103,9 @@ helpmenu = [
 
 help_back = [
     [InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url="https://t.me/bshhshsb"),
+     ],
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
-    ],
+    ], 
+    ]
